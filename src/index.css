@@ -1,0 +1,8 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f172a; color: #f1f5f9; min-height: 100vh; }
+input, select, textarea { font-family: inherit; font-size: 14px; border-radius: 8px; border: 1px solid #334155; background: #1e293b; color: #f1f5f9; padding: 8px 12px; outline: none; transition: border-color 0.15s; }
+input:focus, select:focus, textarea:focus { border-color: #3b82f6; }
+button { cursor: pointer; font-family: inherit; font-size: 13px; border-radius: 8px; border: 1px solid #475569; background: transparent; color: #f1f5f9; padding: 7px 16px; transition: all 0.15s; }
+button:hover { background: #1e293b; border-color: #94a3b8; }
+a { color: #3b82f6; text-decoration: none; }
+a:hover { text-decoration: underline; }
